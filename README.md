@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **transformers**: transformers 是一个强大的自然语言处理框架，内置了众多预训练模型，可
 - **spacy**: spaCy 是一个工业级的自然语言处理工具包，提供高性能和高效的 NLP 操作，
 - **scikit-learn**: scikit-learn 是一个集成的机器学习工具包，直接提供了模型评估和参数优
 - **nltk**: NLTK 是一个用于自然语言处理的综合工具包，包含了检测逻辑谬误和情感操纵所需的
@@ -21,6 +20,7 @@
 - **networkx**: networkx 是专门用于网络分析的库，支持各种网络结构分析的功能，能够直接弥
 - **nltk**: NLTK（Natural Language Toolkit）是一个流行的Pyth
 - **networkx**: networkx 是专门用于网络结构分析和连锁影响的建模的工具，可以直接弥补腔室
+- **geopy**: geopy 是一个 Python的地理位置编码和反向地理编码库，可以直接用于分析
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
