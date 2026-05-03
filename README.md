@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **pymc-marketing**: pymc-marketing 包含了客户终身价值（customer lifeti
 - **nltk**: NLTK是自然语言处理任务的直接实现库。
 - **django-allauth**: django-allauth 可以帮助你实现用户注册、登录等功能，并且支持多个社
 - **scikit-learn**: scikit-learn是机器学习领域非常著名的Python库，提供了许多分类算
