@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **networkx**: networkx 是专门用于图论和网络分析的库，可以直接弥补腔室缺口。
 - **transformers**: transformers 提供了强大的预训练语言模型，可以用于文本情感分析和其他
 - **pymc-marketing**: pymc-marketing 包含了客户终身价值（customer lifeti
 - **nltk**: NLTK是自然语言处理任务的直接实现库。
@@ -21,6 +20,7 @@
 - **scipy**: Stan 可以作为一个 Statistic Analysis System Tr
 - **scipy**: scipy 是一个科学计算库，包含了用于统计分析和概率分布的函数，可以直接用于计
 - **scipy**: scipy是一个科学计算库，包含了大量用于统计分析和数学建模的函数，可以直接弥补
+- **nltk**: nltk 是一个专业的自然语言处理工具包，直接弥补了腔室缺口。
 ## 最新洞见
 
 > 1. **收敛洞见**：
