@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **django-allauth**: django-allauth 可以帮助你实现用户注册、登录等功能，并且支持多个社
 - **scikit-learn**: scikit-learn是机器学习领域非常著名的Python库，提供了许多分类算
 - **networkx**: zhihu-analysis-python 使用了 networkx 库，适合用
 - **scipy**: Stan 可以作为一个 Statistic Analysis System Tr
@@ -19,6 +18,7 @@
 - **scipy**: scipy是一个科学计算库，包含了大量用于统计分析和数学建模的函数，可以直接弥补
 - **nltk**: nltk 是一个专业的自然语言处理工具包，直接弥补了腔室缺口。
 - **scipy**: SciPy 库直接提供了用于高效计算和科学模拟的工具和函数，能够直接弥补自组织系
+- **networkx**: networkx 是一个专门用于网络分析的库，能够构建和分析复杂系统结构图，直接
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
