@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **nltk**: NLTK 是一个用于自然语言处理和文本分析的工具包，它直接弥补了腔室缺口中的需求
 - **nltk**: NLTK 是一个直接用于情感分析和语言处理的工具集，直接弥补了腔室缺口。
 - **hanlp**: HanLP 提供了逻辑谬误检测功能，直接弥补了腔室缺口。
 - **graphviz**: graphviz 是一个用于可视化图形的工具，可以用于构建边缘经验图谱。
@@ -21,6 +20,7 @@
 - **colorama**: colorama 是一个简单的、跨平台的用于在命令行中控制输出颜色的库，直接弥补
 - **scikit-optimize**: scikit-optimize 提供了一个与 scipy.optimize 兼容
 - **scipy**: SciPy 库是用于数值计算和优化问题的解决的主要工具。
+- **litserve**: LitServe 是一个用于构建自定义 AI 推理服务器的 Python 框架，
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
