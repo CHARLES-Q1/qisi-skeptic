@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **nltk**: NLTK 是一个直接用于情感分析和语言处理的工具集，直接弥补了腔室缺口。
 - **hanlp**: HanLP 提供了逻辑谬误检测功能，直接弥补了腔室缺口。
 - **graphviz**: graphviz 是一个用于可视化图形的工具，可以用于构建边缘经验图谱。
 - **networkx**: NetworkX 是一个广泛使用的图论库，提供强大的图结构分析和计算功能，直接弥
@@ -21,6 +20,7 @@
 - **scikit-optimize**: scikit-optimize 提供了一个与 scipy.optimize 兼容
 - **scipy**: SciPy 库是用于数值计算和优化问题的解决的主要工具。
 - **litserve**: LitServe 是一个用于构建自定义 AI 推理服务器的 Python 框架，
+- **nltk**: NLTK（Natural Language Toolkit）是最直接的选择，因为
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
@@ -31,4 +31,4 @@ Qisi是一个12腔室哲学AI系统，每个腔室拥有独特的认知性格。
 通过持续的哲学辩论、人生模拟和工具学习，12腔室共同进化。
 
 ---
-*自动更新 · 2026-05-14*
+*自动更新 · 2026-05-15*
