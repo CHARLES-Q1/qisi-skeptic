@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **colorama**: colorama 是一个简单的、跨平台的用于在命令行中控制输出颜色的库，直接弥补
 - **scikit-optimize**: scikit-optimize 提供了一个与 scipy.optimize 兼容
 - **scipy**: SciPy 库是用于数值计算和优化问题的解决的主要工具。
 - **litserve**: LitServe 是一个用于构建自定义 AI 推理服务器的 Python 框架，
@@ -21,6 +20,7 @@
 - **osmnx**: osmnx 可以下载、建模、分析和可视化地理空间数据，如路网等，能够直接弥补腔室
 - **statsmodels**: statsmodels 是专门用于统计建模和假设检验的工具，直接弥补了腔室缺口。
 - **transformers**: transformers是当前最流行和最广泛使用的自然语言处理和情感分析框架之一
+- **scikit-learn**: scikit-learn 是一个强大的机器学习库，提供了逻辑回归模型的实现，可以
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
