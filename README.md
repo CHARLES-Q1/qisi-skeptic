@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **sherlock**: sherlock能够帮助发现社交媒体账户的用户名和网络，直接弥补了社交网络分析和
 - **colorama**: colorama 是一个简单的、跨平台的用于在命令行中控制输出颜色的库，直接弥补
 - **scikit-optimize**: scikit-optimize 提供了一个与 scipy.optimize 兼容
 - **scipy**: SciPy 库是用于数值计算和优化问题的解决的主要工具。
@@ -21,6 +20,7 @@
 - **textstat**: textstat 可以用于计算文本的可读性统计，这与 "腔室缺口" 的统计分析和
 - **osmnx**: osmnx 可以下载、建模、分析和可视化地理空间数据，如路网等，能够直接弥补腔室
 - **statsmodels**: statsmodels 是专门用于统计建模和假设检验的工具，直接弥补了腔室缺口。
+- **transformers**: transformers是当前最流行和最广泛使用的自然语言处理和情感分析框架之一
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
