@@ -11,12 +11,12 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **transformers**: transformers是当前最流行和最广泛使用的自然语言处理和情感分析框架之一
 - **scikit-learn**: scikit-learn 是一个强大的机器学习库，提供了逻辑回归模型的实现，可以
 - **sherlock**: sherlock 可用于社交媒体账号搜索和分析，直接弥补了腔室缺口。
 - **scikit-learn**: scikit-learn 是 Python 中最流行的机器学习库之一，提供了广泛
 - **networkx**: networkx 是专门用于网络分析和边缘经验网络建模的库，它直接弥补了腔室缺口
 - **scikit-learn**: scikit-learn 是一个广泛使用的 Python 机器学习库，提供了许多
+- **spacy**: spacy 是一个强大的自然语言处理库，提供了高效的文本分析功能，直接弥补了腔室
 ## 最新洞见
 
 > 1. **收敛洞见**： 
