@@ -19,6 +19,7 @@
 - **scikit-learn**: scikit-learn 提供了广泛的机器学习算法和工具，包括逐步回归和模型优化
 - **ailearning**: ai-learning 包含了 NLTK 的使用和 PyTorch 的应用，直接
 - **textblob**: TextBlob 是一个简单易用的 Python 库，用于进行情绪分析和文本主题
+- **litserve**: LitServe 是一个用于构建自定义 AI 服务的 Python 框架，支持全
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
