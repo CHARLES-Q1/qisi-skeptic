@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **scipy**: scipy.stats提供了大量的统计分析函数和随机过程模拟方法，直接弥补了腔室
 - **keras**: keras 是一个深度学习库，可以用于模拟人类认知和情绪反应的行为。
 - **openfoodfacts**: openfoodfacts-python 可以提供食品真实性标准的数据，用于训练
 - **autogpt**: AutoGPT 是一个通用的 AI 工具，可以用于分析复杂语言模式和逻辑关系，并
@@ -19,6 +18,7 @@
 - **ailearning**: ai-learning 包含了 NLTK 的使用和 PyTorch 的应用，直接
 - **textblob**: TextBlob 是一个简单易用的 Python 库，用于进行情绪分析和文本主题
 - **litserve**: LitServe 是一个用于构建自定义 AI 服务的 Python 框架，支持全
+- **networkx**: networkx 是专门用于网络分析的库，可以帮助分析和操作复杂的网络结构。
 ## 最新洞见
 
 > **收敛洞见：**
