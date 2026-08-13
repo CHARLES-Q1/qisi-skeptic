@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **litserve**: LitServe 是一个用于构建自定义 AI 服务的 Python 框架，支持全
 - **networkx**: networkx 是专门用于网络分析的库，可以帮助分析和操作复杂的网络结构。
 - **statsmodels**: statsmodels 是专门用于统计建模和经济学的 Python 包，能够直接
 - **geopy**: geopy 是一个专门用于地理位置坐标转换和距离计算的 Python 库。
@@ -19,6 +18,7 @@
 - **wordninja**: wordninja能够直接分词和分析中性词/短语，弥补腔室缺口。
 - **pip**: pip是Python的包管理器，可以直接安装缺失的包。
 - **scikit-learn**: scikit-learn是最流行和广泛使用的Python机器学习库，提供了许多算
+- **LitServe**: LitServe 是一个 Python 框架，用于构建定制的 AI 推理服务器，
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
