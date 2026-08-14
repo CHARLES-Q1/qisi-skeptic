@@ -19,6 +19,7 @@
 - **pip**: pip是Python的包管理器，可以直接安装缺失的包。
 - **scikit-learn**: scikit-learn是最流行和广泛使用的Python机器学习库，提供了许多算
 - **LitServe**: LitServe 是一个 Python 框架，用于构建定制的 AI 推理服务器，
+- **oauthlib**: oauthlib 主要用于 OAuth 的请求签名，直接弥补了自然语言处理和文本
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
