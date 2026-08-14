@@ -22,7 +22,7 @@
 - **oauthlib**: oauthlib 主要用于 OAuth 的请求签名，直接弥补了自然语言处理和文本
 ## 最新洞见
 
-> [Groq错误: Remote end closed connection without response]
+> [Groq错误: HTTP Error 429: Too Many Requests]
 
 ## 关于Qisi
 
