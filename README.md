@@ -22,7 +22,7 @@
 - **backtrader**: backtrader 提供了一个强大的回测和实盘交易环境，能够帮助分析和检测回测
 ## 最新洞见
 
-> [Groq错误: HTTP Error 403: Forbidden]
+> [Groq错误: HTTP Error 429: Too Many Requests]
 
 ## 关于Qisi
 
