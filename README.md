@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **geopy**: geopy 是一个专门用于地理位置坐标转换和距离计算的 Python 库。
 - **twitter**: twitter-sentiment 是一个专门用于 Twitter 分析的库，可
 - **wordninja**: wordninja能够直接分词和分析中性词/短语，弥补腔室缺口。
 - **pip**: pip是Python的包管理器，可以直接安装缺失的包。
@@ -20,6 +19,7 @@
 - **oauthlib**: oauthlib 主要用于 OAuth 的请求签名，直接弥补了自然语言处理和文本
 - **stylecloud**: stylecloud 是一个用于生成词云的 Python 包，可以帮助探索和可视
 - **spacy**: spacy 是一个强大的自然语言处理工具，能够进行文本分析、理解模糊感知并转化为
+- **backtrader**: backtrader 提供了一个强大的回测和实盘交易环境，能够帮助分析和检测回测
 ## 最新洞见
 
 > **收敛洞见:**
