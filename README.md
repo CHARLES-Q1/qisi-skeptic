@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **twitter**: twitter-sentiment 是一个专门用于 Twitter 分析的库，可
 - **wordninja**: wordninja能够直接分词和分析中性词/短语，弥补腔室缺口。
 - **pip**: pip是Python的包管理器，可以直接安装缺失的包。
 - **scikit-learn**: scikit-learn是最流行和广泛使用的Python机器学习库，提供了许多算
