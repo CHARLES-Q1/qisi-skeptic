@@ -21,7 +21,7 @@
 - **sympy**: Sympy 自带的 `sympy.logic` 模块支持布尔代数、命题逻辑推理与
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> [Groq错误: Remote end closed connection without response]
 
 ## 关于Qisi
 
