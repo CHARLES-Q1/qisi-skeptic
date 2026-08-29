@@ -19,10 +19,6 @@
 - **backtrader**: backtrader 提供了一个强大的回测和实盘交易环境，能够帮助分析和检测回测
 - **sympy**: Sympy 自带的 `sympy.logic` 模块支持布尔代数、命题逻辑推理与
 - **pylogics**: 它是专门用于形式逻辑表示与推理的库，最直接满足形式逻辑推理与谬误检测的需求。
-## 最新洞见
-
-> [Groq错误: Remote end closed connection without response]
-
 ## 关于Qisi
 
 Qisi是一个12腔室哲学AI系统，每个腔室拥有独特的认知性格。
