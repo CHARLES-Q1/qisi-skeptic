@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **scikit-learn**: scikit-learn是最流行和广泛使用的Python机器学习库，提供了许多算
 - **LitServe**: LitServe 是一个 Python 框架，用于构建定制的 AI 推理服务器，
 - **oauthlib**: oauthlib 主要用于 OAuth 的请求签名，直接弥补了自然语言处理和文本
 - **stylecloud**: stylecloud 是一个用于生成词云的 Python 包，可以帮助探索和可视
@@ -19,6 +18,7 @@
 - **backtrader**: backtrader 提供了一个强大的回测和实盘交易环境，能够帮助分析和检测回测
 - **sympy**: Sympy 自带的 `sympy.logic` 模块支持布尔代数、命题逻辑推理与
 - **pylogics**: 它是专门用于形式逻辑表示与推理的库，最直接满足形式逻辑推理与谬误检测的需求。
+- **sympy**: Sympy 本身支持符号布尔代数与逻辑推理，可直接用于符号逻辑推理和谬误检测。
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
