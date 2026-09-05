@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **LitServe**: LitServe 是一个 Python 框架，用于构建定制的 AI 推理服务器，
 - **oauthlib**: oauthlib 主要用于 OAuth 的请求签名，直接弥补了自然语言处理和文本
 - **stylecloud**: stylecloud 是一个用于生成词云的 Python 包，可以帮助探索和可视
 - **spacy**: spacy 是一个强大的自然语言处理工具，能够进行文本分析、理解模糊感知并转化为
