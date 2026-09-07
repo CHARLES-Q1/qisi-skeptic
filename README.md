@@ -20,7 +20,7 @@
 - **sympy**: sympy 自带逻辑（Boolean）模块，支持符号逻辑表达式的构造、简化与推理
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> [Groq错误: HTTP Error 403: Forbidden]
 
 ## 关于Qisi
 
