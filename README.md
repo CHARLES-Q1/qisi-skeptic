@@ -19,8 +19,7 @@
 - **sympy**: sympy 自带逻辑（Boolean）模块，支持符号逻辑表达式的构造、简化与推理
 ## 最新洞见
 
-> 稳定信念:  
-1. 
+> [Groq错误: HTTP Error 429: Too Many Requests]
 
 ## 关于Qisi
 
