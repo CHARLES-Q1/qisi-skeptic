@@ -17,6 +17,7 @@
 - **pylogics**: 该库拥有最高星级（16★），专注于逻辑形式的表示与操作，能够直接执行形式逻辑推理
 - **sympy**: 它内置的 `sympy.logic` 模块支持符号逻辑推理，可用于构造和检测逻辑
 - **sympy**: sympy 自带逻辑（Boolean）模块，支持符号逻辑表达式的构造、简化与推理
+- **sympy**: Sympy 自带的 `sympy.logic` 模块支持命题逻辑、布尔表达式简化
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
