@@ -18,6 +18,7 @@
 - **sympy**: 它内置的 `sympy.logic` 模块支持符号逻辑推理，可用于构造和检测逻辑
 - **sympy**: sympy 自带逻辑（Boolean）模块，支持符号逻辑表达式的构造、简化与推理
 - **sympy**: Sympy 自带的 `sympy.logic` 模块支持命题逻辑、布尔表达式简化
+- **sympy**: 提供符号逻辑模块（如 `sympy.logic`），可直接用于符号逻辑推理和谬误
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
