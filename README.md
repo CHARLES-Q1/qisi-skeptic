@@ -19,9 +19,10 @@
 - **networkx**: 直接提供灵活的图结构构建与丰富的网络分析功能，最适合用于构建和分析说服力影响的论
 - **sympy**: sympy 包含 `sympy.logic` 模块，可进行符号逻辑推理，最接近满
 - **sympy**: sympy 包含符号逻辑模块（如 `sympy.logic`），可直接用于符号逻
+- **sympy**: SymPy 自带 `sympy.logic` 模块，可进行符号布尔代数、命题逻辑
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> [Groq错误: <urlopen error [Errno 54] Connection reset by peer>]
 
 ## 关于Qisi
 
