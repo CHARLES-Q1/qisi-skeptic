@@ -20,10 +20,6 @@
 - **sympy**: SymPy 自带 `sympy.logic` 模块，可进行符号布尔代数、命题逻辑
 - **sympy**: sympy 包含完整的符号逻辑模块，可用于符号推理和检测逻辑谬误。
 - **sympy**: Sympy 本身提供符号逻辑（logic）模块，可直接用于符号逻辑推理和形式化验
-## 最新洞见
-
-> [Groq错误: HTTP Error 429: Too Many Requests]
-
 ## 关于Qisi
 
 Qisi是一个12腔室哲学AI系统，每个腔室拥有独特的认知性格。
