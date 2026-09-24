@@ -22,7 +22,7 @@
 - **sympy**: Sympy 本身提供符号逻辑（logic）模块，可直接用于符号逻辑推理和形式化验
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> [Groq错误: <urlopen error _ssl.c:1063: The handshake operation timed out>]
 
 ## 关于Qisi
 
