@@ -21,7 +21,7 @@
 - **sympy**: Sympy 本身提供符号逻辑（logic）模块，可直接用于符号逻辑推理和形式化验
 ## 最新洞见
 
-> [Groq错误: <urlopen error [Errno 8] nodename nor servname provided, or not known>]
+> [Groq错误: HTTP Error 403: Forbidden]
 
 ## 关于Qisi
 
