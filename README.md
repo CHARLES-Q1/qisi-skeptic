@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **sympy**: 提供符号逻辑模块（如 `sympy.logic`），可直接用于符号逻辑推理和谬误
 - **networkx**: 直接提供灵活的图结构构建与丰富的网络分析功能，最适合用于构建和分析说服力影响的论
 - **sympy**: sympy 包含 `sympy.logic` 模块，可进行符号逻辑推理，最接近满
 - **sympy**: sympy 包含符号逻辑模块（如 `sympy.logic`），可直接用于符号逻
@@ -20,6 +19,7 @@
 - **sympy**: Sympy 本身提供符号逻辑（logic）模块，可直接用于符号逻辑推理和形式化验
 - **scikit-learn**: 它提供完整的交叉验证、模型评估和稳健性分析工具，直接用于防止过拟合并比较实盘与回
 - **sympy**: SymPy 提供了 `sympy.logic.boolalg` 模块，可直接进行
+- **sympy**: sympy 本身即为 Python 纯实现的计算机代数系统，能直接进行逻辑推理与
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
