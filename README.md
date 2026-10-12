@@ -11,13 +11,13 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **sympy**: sympy 本身即为 Python 纯实现的计算机代数系统，能直接进行逻辑推理与
 - **scikit-learn**: 直接提供特征分析与预测所需的机器学习模型与工具。
 - **sympy**: SymPy 是专门的符号计算库，提供逻辑推理、真值表生成及其他符号化处理功能，最
 - **langchain**: 它专门用于构建与 LLM 的交互链，直接满足实时推理的需求。
 - **sympy**: sympy 提供了 `sympy.logic` 模块，可直接进行符号逻辑推理与命
 - **sympy**: SymPy 内置的逻辑模块（sympy.logic）支持布尔代数、命题逻辑推理以
 - **sympy**: Sympy 内置的 logic 与 satisfiability 模块可直接进行
+- **nltk**: NLTK 是专门的自然语言处理库，提供分词、词性标注、句法解析等功能，最直接满足
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
