@@ -19,6 +19,7 @@
 - **nltk**: NLTK 是专门的自然语言处理库，提供分词、词性标注、句法解析等功能，最直接满足
 - **sympy**: SymPy 是专门用于符号数学和逻辑推理的库，能够直接支持符号逻辑推理与谬误检测
 - **sympy**: SymPy 本身就是专门用于符号运算和逻辑推理的纯 Python 计算机代数系统
+- **sympy**: sympy 本身就是一个用于符号运算和逻辑推理的纯 Python 计算机代数系统
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
