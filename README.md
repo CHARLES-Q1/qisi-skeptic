@@ -20,6 +20,7 @@
 - **pylogics**: 它是专门用于形式逻辑表示、推理和操作的库，最直接满足“形式逻辑推理与谬误检测”的
 - **geopandas**: 直接提供用于地理空间数据处理与分析的核心功能，最符合“geopandas 用于地
 - **sympy**: SymPy 包含完整的逻辑模块（如 `sympy.logic`），可用于形式逻辑
+- **sympy**: sympy 能处理符号逻辑表达式、进行推理和检测逻辑错误，最直接满足需求。
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
