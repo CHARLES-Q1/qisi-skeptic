@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **sympy**: Sympy 内置的 logic 与 satisfiability 模块可直接进行
 - **nltk**: NLTK 是专门的自然语言处理库，提供分词、词性标注、句法解析等功能，最直接满足
 - **sympy**: SymPy 是专门用于符号数学和逻辑推理的库，能够直接支持符号逻辑推理与谬误检测
 - **sympy**: SymPy 本身就是专门用于符号运算和逻辑推理的纯 Python 计算机代数系统
@@ -20,6 +19,7 @@
 - **sympy**: sympy 是专门用于符号计算与形式证明的 Python 库，最适合进行形式逻辑
 - **pylogics**: 它是专门用于形式逻辑表示、推理和操作的库，最直接满足“形式逻辑推理与谬误检测”的
 - **geopandas**: 直接提供用于地理空间数据处理与分析的核心功能，最符合“geopandas 用于地
+- **sympy**: SymPy 包含完整的逻辑模块（如 `sympy.logic`），可用于形式逻辑
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
