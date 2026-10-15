@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **sympy**: SymPy 提供了符号逻辑推理与命题演算的核心功能，最直接满足该需求。
 - **networkx**: networkx 提供了灵活的图结构和丰富的分析算法，最适合直接构建多维关系网络
 - **sympy**: SymPy 的 `sympy.logic` 模块支持命题逻辑推理与简化，可用于执
 - **sympy**: sympy 能直接提供符号逻辑推理与谬误检测功能，最符合需求。
@@ -20,6 +19,7 @@
 - **backtrader**: backtrader 本身提供了丰富的回测、纸交易（PaperBroker）以及
 - **sympy**: SymPy 提供了完整的符号逻辑模块（如 `sympy.logic`），可直接进
 - **sympy**: Sympy 是 Python 的符号计算库，直接支持逻辑表达式的构造、简化和符号
+- **sympy**: sympy 本身就是一个完整的符号计算与逻辑推理系统，能直接满足需求。
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
