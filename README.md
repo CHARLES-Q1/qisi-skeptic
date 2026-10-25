@@ -21,7 +21,7 @@
 - **sympy**: SymPy 是 Python 的符号计算库，提供完整的符号逻辑推理与逻辑表达式简
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> [Groq错误: HTTP Error 403: Forbidden]
 
 ## 关于Qisi
 
