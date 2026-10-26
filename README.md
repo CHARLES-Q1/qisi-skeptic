@@ -19,6 +19,7 @@
 - **sympy**: SymPy 是 Python 的符号计算库，提供完整的符号逻辑推理与逻辑表达式简
 - **sympy**: SymPy 提供符号逻辑推理与真值表生成的完整功能，直接满足需求。
 - **sympy**: SymPy 包含专门的逻辑模块（sympy.logic），可用于形式逻辑推理和谬
+- **sympy**: SymPy 提供符号逻辑（Boolean Algebra）模块，可用于形式化推理
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
