@@ -18,6 +18,7 @@
 - **sympy**: SymPy 是纯 Python 实现的计算机代数系统，提供完整的符号逻辑表达式构
 - **pylogics**: 它是专门用于形式逻辑表达式的表示、操作和推理的库，最直接满足形式逻辑推理与谬误检
 - **sympy**: SymPy 是 Python 的符号计算库，提供完整的符号逻辑推理与逻辑表达式简
+- **sympy**: SymPy 提供符号逻辑推理与真值表生成的完整功能，直接满足需求。
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
