@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **sympy**: SymPy 提供符号逻辑推理与真值表生成的完整功能，直接满足需求。
 - **sympy**: SymPy 包含专门的逻辑模块（sympy.logic），可用于形式逻辑推理和谬
 - **sympy**: SymPy 提供符号逻辑（Boolean Algebra）模块，可用于形式化推理
 - **sympy**: sympy 内置了 `sympy.logic` 模块，可直接进行符号逻辑推理与命
