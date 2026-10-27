@@ -20,6 +20,7 @@
 - **sympy**: SymPy 提供符号逻辑运算、真值表生成与逻辑推理功能，正好满足形式逻辑推理与谬
 - **textstat**: 该包专门用于计算文本的可读性和风格指标，正好满足缺口需求。
 - **pylogics**: pylogics 提供了形式逻辑的表示与操作功能，最适合用于逻辑推理与谬误检测。
+- **neurokit2**: NeuroKit2 是专门用于神经生理信号处理与神经-心理学分析的 Python
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
