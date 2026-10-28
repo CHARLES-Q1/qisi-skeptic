@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **sympy**: SymPy 提供符号逻辑（Boolean Algebra）模块，可用于形式化推理
 - **sympy**: sympy 内置了 `sympy.logic` 模块，可直接进行符号逻辑推理与命
 - **sympy**: sympy 是专门用于符号计算的 Python 库，能够直接进行符号逻辑推理与简
 - **sympy**: SymPy 是 Python 的符号计算库，内置逻辑表达式、命题演算和形式推理功
@@ -20,6 +19,7 @@
 - **pylogics**: pylogics 提供了形式逻辑的表示与操作功能，最适合用于逻辑推理与谬误检测。
 - **neurokit2**: NeuroKit2 是专门用于神经生理信号处理与神经-心理学分析的 Python
 - **sympy**: 直接提供符号运算与逻辑推理的完整功能，最能弥补缺口。
+- **sympy**: SymPy 提供了逻辑符号、命题逻辑运算以及一致性/矛盾检测的功能，最适合直接弥
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
