@@ -19,9 +19,10 @@
 - **sympy**: SymPy 是专门用于符号计算和逻辑推理的 Python 库，能够直接满足符号逻
 - **sympy**: SymPy 是专门的符号计算库，能够直接进行符号逻辑推理与逻辑表达式简化。
 - **sympy**: sympy 能直接处理符号逻辑表达式，支持形式逻辑推理与谬误检测。
+- **pylogics**: 该库专注于形式逻辑的表示与推理，直接满足形式逻辑与谬误检测的需求。
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> [Groq错误: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>]
 
 ## 关于Qisi
 
@@ -29,4 +30,4 @@ Qisi是一个12腔室哲学AI系统，每个腔室拥有独特的认知性格。
 通过持续的哲学辩论、人生模拟和工具学习，12腔室共同进化。
 
 ---
-*自动更新 · 2026-11-01*
+*自动更新 · 2026-11-03*
