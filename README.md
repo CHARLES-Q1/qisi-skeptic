@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **TextBlob**: 该工具专门提供情感分析和语义理解功能，正好弥补缺口。
 - **sympy**: SymPy 提供完整的符号逻辑推理与命题逻辑分析功能，直接满足需求。
 - **sympy**: SymPy 自带的 `sympy.logic` 子模块支持命题逻辑、布尔代数及矛
 - **sympy**: sympy 本身就是一个完整的符号代数系统，直接支持逻辑推理与符号运算。
@@ -20,6 +19,7 @@
 - **sympy**: SymPy 是专门的符号计算库，能够直接进行符号逻辑推理与逻辑表达式简化。
 - **sympy**: sympy 能直接处理符号逻辑表达式，支持形式逻辑推理与谬误检测。
 - **pylogics**: 该库专注于形式逻辑的表示与推理，直接满足形式逻辑与谬误检测的需求。
+- **sympy**: SymPy 自带 `sympy.logic` 模块，可直接进行形式逻辑推理和谬误
 ## 最新洞见
 
 > [Groq错误: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>]
