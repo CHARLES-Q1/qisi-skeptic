@@ -21,7 +21,7 @@
 - **sympy**: SymPy 提供完整的符号逻辑推理与逻辑表达式简化功能，最能直接弥补该缺口。
 ## 最新洞见
 
-> [Groq错误: <urlopen error _ssl.c:1063: The handshake operation timed out>]
+> [Groq错误: HTTP Error 429: Too Many Requests]
 
 ## 关于Qisi
 
