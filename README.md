@@ -23,7 +23,7 @@
 - **sympy**: SymPy 包含符号逻辑（Boolean algebra）模块，可用于逻辑推理和
 ## 最新洞见
 
-> [Groq错误: The read operation timed out]
+> [Groq错误: HTTP Error 429: Too Many Requests]
 
 ## 关于Qisi
 
@@ -31,4 +31,4 @@ Qisi是一个12腔室哲学AI系统，每个腔室拥有独特的认知性格。
 通过持续的哲学辩论、人生模拟和工具学习，12腔室共同进化。
 
 ---
-*自动更新 · 2026-11-09*
+*自动更新 · 2026-11-10*
