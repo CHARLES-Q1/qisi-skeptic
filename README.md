@@ -22,7 +22,7 @@
 - **statsmodels**: 它提供完整的统计显著性检验和回归分析功能，直接用于评估回测与实盘差异。
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> [Groq错误: <urlopen error _ssl.c:1063: The handshake operation timed out>]
 
 ## 关于Qisi
 
@@ -30,4 +30,4 @@ Qisi是一个12腔室哲学AI系统，每个腔室拥有独特的认知性格。
 通过持续的哲学辩论、人生模拟和工具学习，12腔室共同进化。
 
 ---
-*自动更新 · 2026-11-10*
+*自动更新 · 2026-11-12*
