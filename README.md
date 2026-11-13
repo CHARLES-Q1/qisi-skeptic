@@ -18,6 +18,7 @@
 - **sympy**: SymPy 能进行符号逻辑推理并生成真值表，是最合适的工具。
 - **sympy**: sympy 本身就是专门用于符号运算与逻辑推理的 Python 计算机代数系统，
 - **sympy**: sympy 内置逻辑符号与推理功能，可直接用于形式逻辑推理与谬误检测。
+- **sympy**: SymPy 是专门用于符号计算和逻辑表达式简化的库，能直接满足符号逻辑推理与表达
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
