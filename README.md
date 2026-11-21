@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **sympy**: SymPy 提供完整的符号逻辑（布尔代数、命题逻辑、谓词逻辑）功能，可直接用于符
 - **sympy**: sympy 是专门用于符号计算和逻辑推理的 Python 库，能够直接支持命题逻
 - **sympy**: SymPy 包含 `sympy.logic` 模块，可直接进行形式逻辑推理和谬误
 - **pylogics**: pylogics 提供了形式逻辑公式的表示与操作，最适合直接进行逻辑推理与谬误检
@@ -21,6 +20,7 @@
 - **sympy**: SymPy 自带 `sympy.logic` 子模块，可直接进行形式逻辑推理与谬
 - **sympy**: SymPy 内置的逻辑模块支持命题逻辑、谓词逻辑的符号推理，可用于形式逻辑推理与
 - **sympy**: SymPy 自带的 `sympy.logic` 模块支持命题逻辑、谓词逻辑的形式
+- **pylogics**: 直接提供形式逻辑的表示与推理功能，可用于逻辑推理和谬误检测。
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
