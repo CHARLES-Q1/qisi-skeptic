@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **pandas**: pandas 是专为高效处理和分析时间序列及其他结构化数据而设计的核心库。
 - **sympy**: SymPy 提供了逻辑符号、命题演算和形式推理的完整支持，直接弥补形式逻辑推理与
 - **sympy**: SymPy 提供逻辑符号、布尔代数和推理工具，可直接用于形式逻辑推理和谬误检测。
 - **sympy**: 它是 Python 的符号计算库，支持布尔代数与逻辑表达式，可直接用于符号逻辑推
@@ -20,6 +19,7 @@
 - **scikit-learn**: scikit‑learn 提供完整的交叉验证工具（如 `cross_val_sc
 - **sympy**: sympy 是专门用于符号计算和逻辑推理的 Python 库，能够直接生成真值表
 - **sympy**: SymPy 提供符号逻辑（Boolean）模块，可用于逻辑推理与谬误检测。
+- **textblob**: TextBlob 提供简洁的自然语言处理功能，适合对科学数据进行文本化、情感分析
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
