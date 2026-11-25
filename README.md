@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **scikit-learn**: scikit‑learn 提供完整的交叉验证工具（如 `cross_val_sc
 - **sympy**: sympy 是专门用于符号计算和逻辑推理的 Python 库，能够直接生成真值表
 - **sympy**: SymPy 提供符号逻辑（Boolean）模块，可用于逻辑推理与谬误检测。
 - **textblob**: TextBlob 提供简洁的自然语言处理功能，适合对科学数据进行文本化、情感分析
@@ -20,6 +19,7 @@
 - **pylogics**: 该库专注于形式逻辑的表示与推理，直接支持竞争决策的逻辑推理和谬误检测。
 - **sympy**: SymPy 提供了逻辑表达式的符号化处理、简化以及真值表生成的功能，最符合需求。
 - **statsmodels**: statsmodels 提供完整的回归分析工具和稳健性检验函数，直接满足需求。
+- **sympy**: 它是专门用于符号计算和逻辑推理的计算机代数系统，直接填补了 sympy 在该领域
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
